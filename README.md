@@ -1,11 +1,11 @@
 # Welcome to my Website!
 
-### You'll a curated list of my data analysis projects here. 
-Data Project 1
-Data Project 2
-Data Project 3
+### You'll find a curated list of my data analysis projects here. 
+Data Project 1\n
+Data Project 2\n
+Data Project 3\n
 
 ### These are some other projects I've been working on. 
-Project 1
-Project 2
-Project 2
+Project 1\n
+Project 2\n
+Project 2\n
