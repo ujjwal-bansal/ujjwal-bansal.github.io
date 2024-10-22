@@ -1,4 +1,11 @@
-# Welcome to Ujjwal's Website!
+# Welcome to my Website!
 
-### 
-A portfolio website to show off my projects
+### You'll a curated list of my data analysis projects here. 
+Data Project 1
+Data Project 2
+Data Project 3
+
+### These are some other projects I've been working on. 
+Project 1
+Project 2
+Project 2
