@@ -1,8 +1,23 @@
+
+# Website information
+title: Ujjwal Bansal
+description: A personal website for information about me and some of my projects. 
+name: Ujjwal Bansal
+masthead_title: "Ujjwal's Website"
+
+# Template setup
+minimal_mistakes_skin: "aqua"
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-title: Ujjwal's website
-description: Find projects I've worked on here!
+
+# Template configuration
+date_format: "%_d %b %Y"
+
+# defaults
+defaults:
+  - values:
+      show_date: true
+
 
 # Plugins
-
 plugins:
   - jekyll-include-cache
