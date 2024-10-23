@@ -1,5 +1,6 @@
-# About me
+Welcome!
 
+# About me
 Hi, My name is Ujjwal. I am a computer science graduate from the Austrlaian National
 University. I'm interested in data science and machine learning. You can look at some of my projects in this website. 
 
