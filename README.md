@@ -1,11 +1,7 @@
-# Welcome to my Website!
+A semi-professional website to show off the projects I've been working on. 
 
-### You'll find a curated list of my data analysis projects here. 
-Data Project 1\n
-Data Project 2\n
-Data Project 3\n
+## TODO
 
-### These are some other projects I've been working on. 
-Project 1\n
-Project 2\n
-Project 2\n
+1. Move from remote theme to local fork of mmistakes theme.
+2. Modify mast to reflect site design plan.
+3. Divide columns in homepage for description and project list. 
