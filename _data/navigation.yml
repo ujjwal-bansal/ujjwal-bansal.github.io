@@ -1,9 +1,9 @@
 main:
   - title: "Resume"
-    url:
+    url: /resume.pdf
   - title: "Projects"
-    url:
+    url: /projects/
   - title: "Blogs"
-    url: 
+    url: /blogs/
   - title: Contact
-    url: 
+    url: /contact.md
