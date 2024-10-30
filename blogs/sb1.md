@@ -1,6 +1,7 @@
 ---
 
 title: Sample Blogpost 1
+permalink: /blogs/sp1/
 
 ---
 

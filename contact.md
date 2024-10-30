@@ -1,7 +1,7 @@
 ---
 
 title: Contact Information
-permalink: https://ujjwal-bansal.github.io/contact/
+permalink: /contact/
 
 ---
 
