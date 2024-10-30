@@ -2,6 +2,7 @@
 
 title: Contact Information
 permalink: /contact/
+layout: archive
 
 ---
 
