@@ -1,10 +1,10 @@
 ---
 
 title: Sample Blogpost 1
-permalink: /blogs/sp1/
+permalink: /blogs/sb1/
+layout: archive
 
 ---
 
-# Sample Blogpost 1
 A blogpost placeholder page
 

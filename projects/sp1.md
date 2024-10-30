@@ -7,5 +7,4 @@ layout: archive
 
 ---
 
-# Sample Project 1
 A placeholder project page
