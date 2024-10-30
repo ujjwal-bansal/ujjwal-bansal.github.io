@@ -1,9 +1,9 @@
 ---
 
 title: Projects
-permalink: https://ujjwal-bansal.github.io/projects/
+permalink: /projects/
 
 ---
 
 # Projects:
-- [Sample Project 1](https://ujjwal-bansal.github.io/projects/sp1/)
+- [Sample Project 1](/projects/sp1/)
