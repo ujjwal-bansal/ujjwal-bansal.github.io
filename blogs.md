@@ -2,8 +2,9 @@
 
 title: Blogs
 permalink: /blogs/
+layout: archive
 
 ---
 
-# {$title$} 
+# {$page.title$} 
 - [Sample Blog 1](/blogs/sb1/)
