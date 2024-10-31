@@ -1,3 +1,9 @@
+---
+title: Homepage
+author_profile: true
+
+---
+
 Welcome!
 
 # About me
