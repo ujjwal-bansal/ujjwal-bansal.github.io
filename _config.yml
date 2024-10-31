@@ -25,13 +25,13 @@ author:
   location: 'Sydney'
   links:
     - label: 'Github'
-      icon: 'fad fa-github'
+      icon: 'fab fa-github'
       url: 'https://github.com/ujjwal-bansal'
     - label: 'LinkedIn'
-      icon: 'fad fa-linkedin'
+      icon: 'fab fa-linkedin'
       url: 'https://www.linkedin.com/in/ujjwal-bansal-anu/'
     - label: 'Tableau'
-      icon: 'fad fa-tableau'
+      icon: 'fab fa-tableau'
       url: 'https://public.tableau.com/app/profile/ujjwal.bansal6244/vizzes'
 
 # Plugins
