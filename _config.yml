@@ -17,16 +17,11 @@ defaults:
   - values:
       show_date: true
 
-
-# Plugins
-plugins:
-  - jekyll-include-cache
-
 # author
 author:
   name: 'Ujjwal Bansal'
   avatar: '/assets/images/avatar.jpg'
-  bio: 'Data Scientist
+  bio: 'Data Scientist'
   location: 'Sydney'
   links:
     - label: 'Github'
@@ -34,7 +29,11 @@ author:
       url: 'https://github.com/ujjwal-bansal'
     - label: 'LinkedIn'
       icon: 'assets/icons/LinkedIn.png/'
-      url: 'https://www.linkedin.com/in/ujjwal-bansal-anu/
+      url: 'https://www.linkedin.com/in/ujjwal-bansal-anu/'
     - label: 'Tableau'
       icon: 'assets/icons/tableau.png'
       url: 'https://public.tableau.com/app/profile/ujjwal.bansal6244/vizzes'
+
+# Plugins
+plugins:
+  - jekyll-include-cache
