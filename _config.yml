@@ -6,7 +6,7 @@ name: Ujjwal Bansal
 masthead_title: "Ujjwal's Website"
 
 # Template setup
-minimal_mistakes_skin: "aqua"
+minimal_mistakes_skin: "default"
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 # Template configuration
