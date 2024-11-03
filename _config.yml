@@ -31,7 +31,7 @@ author:
       icon: 'fab fa-linkedin'
       url: 'https://www.linkedin.com/in/ujjwal-bansal-anu/'
     - label: 'Tableau'
-      icon: 'fa-table'
+      icon: 'fas fa-table'
       url: 'https://public.tableau.com/app/profile/ujjwal.bansal6244/vizzes'
 
 # Plugins
