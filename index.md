@@ -3,11 +3,7 @@ title: Homepage
 author_profile: true
 
 ---
-
-Welcome!
-
-# About me
-Hi, My name is Ujjwal. I am a computer science graduate from the Australian National
+Hi, my name is Ujjwal. I am a computer science graduate from the Australian National
 University. I'm interested in data science and machine learning. You can find projects I've worked on on this website and on my [GitHub][myGH] page.  
 
 ### Employment Status
